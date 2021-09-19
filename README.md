@@ -20,7 +20,7 @@ To make people more comfortable about coming to Browns, we decided to create che
 
 It's simple. If you are going to Browns, leave the cells green, if you are coming in that day, colour the cell red. Please apply the same process for hot-desks.
 
-<img src="https://github.com/geogbristol/brownsnoteboard/blob/main/Capture1.png" width="650">
+<img src="https://github.com/geogbristol/brownsnoteboard/blob/master/Capture1.png" width="650">
 
 
 ## We are looking for PGR Social Representatives.
