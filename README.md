@@ -1,6 +1,6 @@
 # Browns note board
 
-Information and usefull links for curent Geography PGRs.
+Information and usefull links for curent BRistol Geography PGRs.
 
 ## What's new?
 
@@ -26,6 +26,10 @@ It's simple. If you are going to Browns, leave the cells green, if you are comin
 ## We are looking for PGR Social Representatives.
 
 We have been lucky to have Viola and Tamsin who organized PGR social events last year. This position is now open for anyone who enjoys organizing parties and social events. This is for example summer party, Christmas party and casual meet-ups. Please let us know if you are interested.
+
+## More info.
+
+If you are looking for something else, try to have a look at the [PGR sharepoint site.](https://uob.sharepoint.com/teams/grp-ggy-postgrad/Shared%20Documents/Forms/AllItems.aspx). You can find there PGR handbook, Training resources, list of HPT opportunities, notes from SSL meetings and more.
 
 *Your PGR Reps*
 * *Claude - claude.derijke-thomas@bristol.ac.uk*
