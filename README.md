@@ -28,6 +28,6 @@ It's simple. If you are going to Browns, leave the cells green, if you are comin
 We have been lucky to have Viola and Tamsin who organized PGR social events last year. This position is now open for anyone who enjoys organizing parties and social events. This is for example summer party, Christmas party and casual meet-ups. Please let us know if you are interested.
 
 *Your PGR Reps*
-*Claude - claude.derijke-thomas@bristol.ac.uk*
-*Isolde - isolde.glissenaar@bristol.ac.uk*
-*Lenka - lenka.hasova@bristol.ac.uk *
+* *Claude - claude.derijke-thomas@bristol.ac.uk*
+* *Isolde - isolde.glissenaar@bristol.ac.uk*
+* *Lenka - lenka.hasova@bristol.ac.uk*
