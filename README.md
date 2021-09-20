@@ -5,7 +5,7 @@ Information and usefull links for current Bristol Geography PGRs.
 ## What's new?
 
 With most of the restrictions taken down, it has been announced that we can **all come back to browns**. There are 2 conditions.
-1. You should be wearing masks inside, when you’re not consuming food or are the only one in the room.
+1. You should be wearing masks inside, unless you’re not consuming food or are the only one in the room.
 2. You should take LFT every 3-4 days. You can get them for free in pharmacies, or order them online [here](https://www.gov.uk/order-coronavirus-rapid-lateral-flow-tests)
 
 If your LFT test is positive or you have symptoms, please book yourself for [PCR test](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/get-tested-for-coronavirus/). If you do get Covid-19 and have been at the university, please let someone know. This could be your supervisor, member of staff or just send a message on PGR WhatsApp, or let one of our PGR representatives know, so we can organize the space and the students accordingly.
