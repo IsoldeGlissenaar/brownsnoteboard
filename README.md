@@ -1,6 +1,6 @@
 # Browns note board
 
-Information and usefull links for curent BRistol Geography PGRs.
+Information and usefull links for current Bristol Geography PGRs.
 
 ## What's new?
 
