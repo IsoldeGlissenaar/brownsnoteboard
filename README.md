@@ -20,8 +20,7 @@ To make people feel more comfortable about coming to Browns, we have created a c
 
 It's simple. Green cells represent available desk spaces and red cells represent booked desk spaces. If you plan to work from a desk in Browns, mark the desk you plan to work out in red. This applies to both your own desk and hot-desks but please do try to remain at your own desk.
 
-<img src="https://github.com/geogbristol/brownsnoteboard/blob/master/Capture1.PNG" width="650">
-
+![](./images/spreadsheet_screenshot.png)
 
 ## We are looking for PGR Social Representatives.
 
